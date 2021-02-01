@@ -19,3 +19,10 @@ Printf calls whose arguments do not align with the format string.”
 
 - Like *Javascript* we have `const` and `var`. But we can use `:=` to create and assing value to a variable that not exists yet.
 - Every time you create a new variable, it need to be used in some place. Unlike other languages, Go doesn't accept unused variables and breaks when compiling.
+
+### Console Prints
+
+- `fmt.Print()` print in console without `\n` in the end of the string.
+- `fmt.Println()` print in console with `\n` in the end of the string.
+- `fmt.Printf()` print in console without `\n` in the end of the string and add the possibility of adding variables to the string.
+- `%d` for integer; `%f` for float, `%t` for boolean, `%s` for string. `%v` for general use.
