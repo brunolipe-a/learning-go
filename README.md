@@ -40,3 +40,7 @@ Some types of Go is:
 ### Functions
 
 Functions are pieces of code with one responsability that execute one part of the code. In Go, functions are most like in other C-like languages, like Typescript.
+
+### Pointers
+
+Pointers are memory references to a variable. In Go, pointers are most like in other C-like languages.
