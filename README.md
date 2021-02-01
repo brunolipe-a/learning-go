@@ -36,3 +36,7 @@ Some types of Go is:
 - `uint8`
 - `bool`
 - `string`
+
+### Functions
+
+Functions are pieces of code with one responsability that execute one part of the code. In Go, functions are most like in other C-like languages, like Typescript.
