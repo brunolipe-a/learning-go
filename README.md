@@ -26,3 +26,13 @@ Printf calls whose arguments do not align with the format string.”
 - `fmt.Println()` print in console with `\n` in the end of the string.
 - `fmt.Printf()` print in console without `\n` in the end of the string and add the possibility of adding variables to the string.
 - `%d` for integer; `%f` for float, `%t` for boolean, `%s` for string. `%v` for general use.
+
+### Types
+
+Some types of Go is:
+
+- `int`
+- `float64`
+- `uint8`
+- `bool`
+- `string`
